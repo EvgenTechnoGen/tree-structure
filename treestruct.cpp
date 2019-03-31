@@ -15,3 +15,9 @@ int main(int argc, const char * argv[]) {
     berezka.width = 0.3;
     berezka.height = 6.6;
     berezka.name = 'b';
+    
+    Tree dubok;
+    dubok.age = 120;
+    dubok.width = 2.35;
+    dubok.height = 25.32;
+    dubok.name = 'd';
