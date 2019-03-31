@@ -32,3 +32,6 @@ int main(int argc, const char * argv[]) {
     cout << "Berezka's characteristics:" << endl;
     cout << "Berezka's age - " << berezka.age << " years;" << "\n" << "Berezka's width - " << berezka.width << " metres;" << "\n" << "Berezka's height - " << berezka.height << " metres;" << endl;
     
+    cout << "Tree - dubok" << endl;
+    cout << "Dubok,s characteristics:" << endl;
+    cout << "Dubok's age - " << dubok.age << " years;" << "\n" << "Dubok's width - " << dubok.width << " metres;" << "\n" << "Dubok's height - " << dubok.height << " metres;" << endl;
