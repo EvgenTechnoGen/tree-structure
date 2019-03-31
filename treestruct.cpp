@@ -21,3 +21,10 @@ int main(int argc, const char * argv[]) {
     dubok.width = 2.35;
     dubok.height = 25.32;
     dubok.name = 'd';
+
+    Tree sosna;
+    sosna.age = 97;
+    sosna.width = 0.5;
+    sosna.height = 15;
+    sosna.name = 's';
+
