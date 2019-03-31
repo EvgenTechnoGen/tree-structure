@@ -40,3 +40,8 @@ int main(int argc, const char * argv[]) {
     cout << "Sosna's characteristics:" << endl;
     cout << "Sosna's age - " << sosna.age << " years;" << "\n" << "Sosna's width - " << sosna.width << " metres;" << "\n" << "Sosna's height - " << sosna.height << " metres;" << endl;
     
+    
+    cin.get();
+    return 0;
+}
+
