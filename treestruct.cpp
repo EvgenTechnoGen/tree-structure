@@ -28,3 +28,7 @@ int main(int argc, const char * argv[]) {
     sosna.height = 15;
     sosna.name = 's';
 
+    cout << "Tree - berezka." << endl;
+    cout << "Berezka's characteristics:" << endl;
+    cout << "Berezka's age - " << berezka.age << " years;" << "\n" << "Berezka's width - " << berezka.width << " metres;" << "\n" << "Berezka's height - " << berezka.height << " metres;" << endl;
+    
