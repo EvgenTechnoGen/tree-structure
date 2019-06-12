@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -42,6 +43,7 @@ int main(int argc, const char * argv[]) {
     
     
     cin.get();
+    system("pause");
     return 0;
 }
 
